@@ -1,0 +1,11 @@
+{
+  "name": "algorithm-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FelixLiu553F/algorithm-learning.git",
+  "author": "刘敬峰 <2522685828@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
