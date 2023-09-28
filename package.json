@@ -6,6 +6,10 @@
   "author": "刘敬峰 <2522685828@qq.com>",
   "license": "MIT",
   "devDependencies": {
+    "tslib": "^2.6.2",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "moment-timezone": "^0.5.43"
   }
 }
